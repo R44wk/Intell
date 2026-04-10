@@ -57,3 +57,7 @@ This project operates at a low system level (driver layer).
 Use with caution ⚠️
 May affect system stability if misconfigured
 Recommended for advanced users and testers
+ ## Install
+ 1. download debes intell
+ 2. validar permisos ejecucion listos estar
+ 3. run intell
